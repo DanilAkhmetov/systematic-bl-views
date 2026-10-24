@@ -1,5 +1,12 @@
 # Systematic View Generation for Black–Litterman Portfolios
 
+Welcome to my research project on systematic view generation within the Black–Litterman framework.
+
+The main question is simple: **how much does the way we generate views actually matter for portfolio outcomes?**
+
+To explore this, the first stage compares historical, momentum-based, and factor-based views within the same Black–Litterman setup and evaluates both forecast quality and portfolio performance.
+The second stage will concern the same question under different methods. 
+
 ## Repository Structure
 
 ```text
